@@ -1,6 +1,6 @@
 /*
  * Data.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
  */
 package db;
 
@@ -12,7 +12,7 @@ import java.util.Arrays;
  * This class implements the provided interface and is a facade that calls
  * methods in the underlying DatabaseAccess and LockerRoom classes.
  *
- * @author Rebecca Blundell 91023656
+ * @author rjb
  *
  */
 public class Data implements DB {
