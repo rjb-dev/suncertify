@@ -1,6 +1,6 @@
 /*
  * ServerWindow.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb
   */
 
 
@@ -17,7 +17,7 @@ import javax.swing.border.*;
  * The graphical user interface the user sees when they start the server
  * application.
  *
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public class ServerWindow extends JFrame {
     // All strings are defined in static final declarations at the start of the
