@@ -1,6 +1,6 @@
 /*
  * ApplicationMode.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
  */
 
 
@@ -9,7 +9,7 @@ package gui;
 /**
  * Specifies the modes the application can run in.
  * 
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public enum ApplicationMode {
 
