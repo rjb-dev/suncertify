@@ -1,6 +1,6 @@
 /*
  * DBResult.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
   */
 
 
@@ -13,7 +13,7 @@ package network;
  * <code>DB</code> methods. The server will send this object to the socket
  * client which will inspect it for exceptions and valid return results.
  *
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public class DBResult implements java.io.Serializable {
 
