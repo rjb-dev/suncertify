@@ -1,6 +1,6 @@
 /*
  * LockerRoom.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb
  */
 
 package db;
@@ -15,7 +15,7 @@ import java.util.Random;
  * <br />
  * This should only be used by the Data class.
  * 
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public class LockerRoom {
    
