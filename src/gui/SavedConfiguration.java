@@ -1,6 +1,6 @@
 /*
  * SavedConfiguration.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
   */
 
 package gui;
@@ -11,7 +11,7 @@ import java.util.*;
  * Provides read/write access to the user's saved configuration parameters
  * so that next time they connect, they are offered as default.
  * 
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 
 public class SavedConfiguration {
