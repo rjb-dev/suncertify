@@ -1,6 +1,6 @@
 /*
  * NetworkStarterSockets.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb
   */
 
 
@@ -12,7 +12,7 @@ import javax.swing.JLabel;
 /**
  * Starts the server that accepts Sockets connections.
  *
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public class NetworkStarterSockets {
 
