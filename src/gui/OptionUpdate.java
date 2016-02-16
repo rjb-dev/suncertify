@@ -1,6 +1,6 @@
 /*
  * OptionUpdate.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
   */
 
 package gui;
@@ -9,7 +9,7 @@ package gui;
  * This class is for transferring information about changes to
  * <code>ConfigOptions</code> panel to any interested observers.
  * 
- * @author Rebecca Blundell 91023656
+ * @author rjb
  *
  */
 public class OptionUpdate {
