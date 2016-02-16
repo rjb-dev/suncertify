@@ -1,6 +1,6 @@
 /*
  * MainWindow.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb
   */
 
 
@@ -15,7 +15,7 @@ import javax.swing.table.TableColumn;
  *This class is the main GUI window that provides access to
  * all required functionality.
  * 
- * @author Rebecca Blundell 91023656 
+ * @author rjb 
  *
  */
 public class MainWindow extends JFrame {
