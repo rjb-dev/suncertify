@@ -1,6 +1,6 @@
 /*
  * DBSocketClient.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb
   */
 
 
@@ -15,7 +15,7 @@ import db.*;
  * DBSocketClient implements all of the <code>Data</code> methods for the
  * GUI defined in <code>DB</code>.
  * 
- * @author Rebecca Blundell 91023656
+ * @author rjb
  * 
  */
 public class DBSocketClient implements DB {
