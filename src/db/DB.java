@@ -1,6 +1,6 @@
 /*
  * DB.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
  */
 
 package db;
@@ -9,7 +9,7 @@ package db;
 /**
  *The supplied interface for the SJD Project.
  * 
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public interface DB {
  /**
