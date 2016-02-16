@@ -1,6 +1,6 @@
 /*
  * DBConnector.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb
   */
 
 package network;
@@ -11,7 +11,7 @@ import db.*;
 /**
  * A DBConnector is used by the GUI controller to make a connection to the server.
  * 
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public class DBConnector {
 /**
