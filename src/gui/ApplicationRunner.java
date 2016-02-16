@@ -1,6 +1,6 @@
 /*
  * ApplicationRunner.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
  */
 
 
@@ -15,7 +15,7 @@ import javax.swing.*;
  * This class will check the command line arguments
  * and then call the classes to start the application in the correct mode.
  *
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public class ApplicationRunner {
 
