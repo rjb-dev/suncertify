@@ -1,6 +1,6 @@
 /*
  * GuiControllerException.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
  */
 package gui;
 
@@ -9,7 +9,7 @@ package gui;
  * Holds all exceptions that may occur in the
  * <code>GuiController</code>.
  *
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public class GuiControllerException extends Exception {
 
