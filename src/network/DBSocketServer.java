@@ -1,6 +1,6 @@
 /*
  * DBSocketServer.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
   */
 
 package network;
@@ -16,7 +16,7 @@ import java.net.Socket;
  * <code>DBCommand</code> objects and returns results in
  * <code>DBResult</code> objects.
  *
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public class DBSocketServer extends Thread {
     private String dbLocation = null;
