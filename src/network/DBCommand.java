@@ -1,6 +1,6 @@
 /*
  * DBCommand.java    version 1.0   date 16/12/2015
- * By Rebecca Blundell 91023656 
+ * By rjb 
   */
 
 
@@ -12,7 +12,7 @@ import db.*;
  * A DBCommand object is an object that stores data as well as the command to be
  * executed.
  *
- * @author Rebecca Blundell 91023656
+ * @author rjb
  */
 public class DBCommand implements java.io.Serializable {
 
