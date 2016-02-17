@@ -95,7 +95,7 @@ All About Improvement Project
 16/12/2015
 
 My initial choices about design were based on the choices made in the sample project presented in the SCJP textbook 
-which is the basis for the SJD module at Computer Power Plus. While following the design of the sample project meant 
+which is the basis for the SJD module of my diploma. While following the design of the sample project meant 
 that the code in my project was initially and perhaps still is more complicated than necessary, I felt that following 
 a working model had huge advantages for a beginning programmer like myself, and that those advantages outweighed any 
 concerns I had about over-complicating the solution.
